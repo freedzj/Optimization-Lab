@@ -1,0 +1,21 @@
+
+Add your name and your partner's name (if you work with someone else):
+
+Name: Austin Ayers
+
+Name: Zachary Freed
+
+Identify the two ngram versions that you want to be graded.
+Change what is listed below if those aren't the two versions
+to be graded.
+
+Version that doesn't use STL
+----------------------------
+Executable: ngramfast
+Sources: NgramFast.h, NgramFast.C
+
+Version that uses STL
+----------------------------
+Executable: ngramstl
+Sources: NgramSTL.h, NgramSTL.C
+
